@@ -1,8 +1,9 @@
-# WireGuard Setup Guide (Short)
+# WireGuard Setup Guide 
 
 ## 1. Install WireGuard
 Download and install [WireGuard](https://www.wireguard.com/install/) for your platform (Windows, macOS, Linux, Android, iOS).
 
+## For Mac 
 ![WireGuard store](images/store.png)
 
 ## 2. Obtain Configuration
