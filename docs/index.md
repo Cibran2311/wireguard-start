@@ -12,20 +12,20 @@ Download and install [WireGuard](https://www.wireguard.com/install/) for your pl
 Get the configuration file (`.conf`) or QR code from the administrator.  
 This file contains all required connection parameters (keys, IP, endpoint).
 
-![WireGuard conf] (images/conf.png)
+![WireGuard conf](images/conf.png)
 
 ## 3. Import Configuration
 Open WireGuard and:
 - Select **“Add Tunnel” → “Import from file”** (desktop), or  
 - Scan the QR code (mobile)
 
-![WireGuard tunnel] (images/windows-wg-1.png)
+![WireGuard tunnel](images/windows-wg-1.png)
 
 ## 4. Activate Connection
 Enable the tunnel using the toggle or **“Activate”** button.  
 A successful connection will show traffic or handshake status.
 
-![WireGuard active] (images/active.png)
+![WireGuard active](images/active.png)
 
 ## 5. Verify Connection
 - Open a browser and check internet access  
