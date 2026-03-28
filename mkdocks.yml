@@ -1,6 +1,6 @@
 site_name: instuction-wireguard
 repo_name: 'wireguard'
-repo_url: 'https://github.com/Cibran2311/desktop-tutorial'
+repo_url: 'https://github.com/Cibran2311/wireguard-start'
 theme:
   name: material
   palette:
